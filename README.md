@@ -1,5 +1,6 @@
 # ContainerTransition
-Animate `addChildViewController` transitions with `UIViewControllerContextTransitioning`.
+
+Animate `addChildViewController` transitions using `transition(from:to:duration:options:animations:completion:)` or `UIViewControllerContextTransitioning`
 
 ---
 
